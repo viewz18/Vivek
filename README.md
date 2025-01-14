@@ -8,10 +8,6 @@
 
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500" ></div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipullprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vipullprajapati"  height="40px" width="200"/> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipullprajapati" alt="vipullprajapati" /></a> </p>
-
 - 🌱 I’m currently learning **Mern Full stack Web Developer**
 
 - 💬 Ask me about **React,Javascript,Html,Css,Bootstrap,Tailwind etc**
